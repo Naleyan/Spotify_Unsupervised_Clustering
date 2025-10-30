@@ -1,10 +1,11 @@
-🎵 Spotify Unsupervised Learning Challenge 🎵
+# 🎵 Spotify Unsupervised Learning Challenge 🎵
 
 Academic project carried out as part of the Fundamentals of Machine Learning (FML)** module – IMT Atlantique (FISE A2, 2025).  
 The goal of this project is to **explore and analyze musical trends on Spotify (2010–2022)** using **unsupervised learning techniques** such as PCA, K-Means, and t-SNE.
 
-📁 Project Structure
+## 📁 Project Structure
 
+"""
 Spotify-Unsupervised_Learning_Challenge/
 │
 ├── data/
@@ -25,9 +26,10 @@ Spotify-Unsupervised_Learning_Challenge/
 │
 ├── requirements.txt # Python dependencies
 └── README.md # This file
+"""
 
 
-🧠 Project Objectives
+## 🧠 Project Objectives
 
 1. **Analyze** the audio characteristics of 2,300 popular tracks (2010–2022).  
 2. **Clean, normalize, and transform** the data to make it suitable for unsupervised models.  
@@ -35,7 +37,7 @@ Spotify-Unsupervised_Learning_Challenge/
 4. **Interpret** the resulting clusters and their musical meaning.  
 
 
-⚙️ Data Processing Pipeline
+## ⚙️ Data Processing Pipeline
 
 1. **Exploration (EDA)**
 - Statistical analysis of 23 variables  
@@ -67,7 +69,7 @@ Spotify-Unsupervised_Learning_Challenge/
 - Observation of a **continuous sound spectrum**, rather than distinct genre clusters.  
 
 
-📊 Key Results
+## 📊 Key Results
 
 - Dataset: 2,300 tracks, 23 audio features  
 - PCA: first two components explain ≈ 50% of variance  
@@ -77,7 +79,7 @@ Spotify-Unsupervised_Learning_Challenge/
 
 
 
-🚀 Future Work
+## 🚀 Future Work
 
 If the unsupervised constraint were lifted:
 - **Popularity Prediction** (regression task)
@@ -86,19 +88,19 @@ If the unsupervised constraint were lifted:
 
 
 
-🧰 Technical Environment
+## 🧰 Technical Environment
 
 Installation: pip install -r requirements.txt
 
 
-👨‍💻 Project Team
+## 👨‍💻 Project Team
 
-Achraf ESSALEH
-Sara ELBARI
-Eva LANSALOT
-Houda DAOUAIRI
-Kalis KRAÏFI
-Nada ALEIAN
+Achraf ESSALEH; 
+Sara ELBARI;
+Eva LANSALOT;
+Houda DAOUAIRI;
+Kalis KRAÏFI;
+Nada ALEIAN;
 
 
 
