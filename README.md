@@ -5,28 +5,28 @@ The goal of this project is to **explore and analyze musical trends on Spotify (
 
 ## 📁 Project Structure
 
-"""
+```text
 Spotify-Unsupervised_Learning_Challenge/
 │
 ├── data/
-│ ├── raw/ # Raw data (original Spotify CSV)
-│ └── processed/ # Cleaned and preprocessed data for modeling
+│   ├── raw/          # Raw data (original Spotify CSV)
+│   └── processed/    # Cleaned and preprocessed data for modeling
 │
-├── notebooks/ # Jupyter notebooks for each project stage
-│ ├── 01_EDA.ipynb # Exploratory Data Analysis
-│ ├── 02_Preprocessing.ipynb
-│ ├── 03_Clustering.ipynb
-│ └── 04_Analysis.ipynb
+├── notebooks/        # Jupyter notebooks for each project stage
+│   ├── 01_EDA.ipynb  # Exploratory Data Analysis
+│   ├── 02_Preprocessing.ipynb
+│   ├── 03_Clustering.ipynb
+│   └── 04_Analysis.ipynb
 │
-├── src/ # Modular Python scripts
-│ ├── data_preprocessing.py
-│ ├── feature_engineering.py
-│ ├── clustering_models.py
-│ └── init.py
+├── src/              # Modular Python scripts
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── clustering_models.py
+│   └── __init__.py
 │
-├── requirements.txt # Python dependencies
-└── README.md # This file
-"""
+├── requirements.txt  # Python dependencies
+└── README.md         # This file
+```
 
 
 ## 🧠 Project Objectives
@@ -95,12 +95,12 @@ Installation: pip install -r requirements.txt
 
 ## 👨‍💻 Project Team
 
-Achraf ESSALEH; 
-Sara ELBARI;
-Eva LANSALOT;
-Houda DAOUAIRI;
-Kalis KRAÏFI;
-Nada ALEIAN;
+Achraf ESSALEH-
+Sara ELBARI-
+Eva LANSALOT-
+Houda DAOUAIRI-
+Kalis KRAÏFI-
+Nada ALEIAN
 
 
 
